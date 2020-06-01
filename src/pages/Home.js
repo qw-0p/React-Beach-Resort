@@ -1,9 +1,9 @@
 import React from 'react';
-import Hero from '../componennts/Hero';
-import Banner from '../componennts/Banner';
+import Hero from '../components/Hero';
+import Banner from '../components/Banner';
 import {Link} from 'react-router-dom';
-import Services from '../componennts/Services';
-import FeaturedRooms from '../componennts/FeaturedRooms';
+import Services from '../components/Services';
+import FeaturedRooms from '../components/FeaturedRooms';
 export default function Home() {
     return (
         <>
