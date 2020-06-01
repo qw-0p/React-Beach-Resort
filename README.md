@@ -1,3 +1,7 @@
+## Site deployed on [Netlify](https://www.netlify.com/). you can check it on this [link](https://react-beach-resort-room.netlify.app/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
